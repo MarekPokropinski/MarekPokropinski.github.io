@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beauty_gan/static/css/main.a617e044.chunk.css",
+    "main.js": "/beauty_gan/static/js/main.cc9a8446.chunk.js",
+    "main.js.map": "/beauty_gan/static/js/main.cc9a8446.chunk.js.map",
+    "runtime-main.js": "/beauty_gan/static/js/runtime-main.e4884945.js",
+    "runtime-main.js.map": "/beauty_gan/static/js/runtime-main.e4884945.js.map",
+    "static/js/2.2cdd85b5.chunk.js": "/beauty_gan/static/js/2.2cdd85b5.chunk.js",
+    "static/js/2.2cdd85b5.chunk.js.map": "/beauty_gan/static/js/2.2cdd85b5.chunk.js.map",
+    "static/js/3.ec3777af.chunk.js": "/beauty_gan/static/js/3.ec3777af.chunk.js",
+    "static/js/3.ec3777af.chunk.js.map": "/beauty_gan/static/js/3.ec3777af.chunk.js.map",
+    "index.html": "/beauty_gan/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/beauty_gan/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2cdd85b5.chunk.js.LICENSE.txt": "/beauty_gan/static/js/2.2cdd85b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4884945.js",
+    "static/js/2.2cdd85b5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.cc9a8446.chunk.js"
+  ]
+}
